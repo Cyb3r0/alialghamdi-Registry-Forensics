@@ -1,0 +1,9 @@
+{
+  "name": "Full Edition",
+  "items": [
+    "SYSTEM\\CurrentControlSet\\Enum\\USBSTOR",
+    "SYSTEM\\MountedDevices",
+    "NTUSER.DAT\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\UserAssist",
+    "USRCLASS.DAT\\Local Settings\\Software\\Microsoft\\Windows\\Shell\\BagMRU"
+  ]
+}
